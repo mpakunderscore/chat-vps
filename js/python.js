@@ -2,7 +2,7 @@ const PythonShell = require('python-shell');
 
 var options = {
     mode: 'text',
-    pythonPath: '/usr/local/bin/python3'
+    pythonPath: '/usr/bin/python3'
 };
 
 // pythonOptions: ['-u'],
